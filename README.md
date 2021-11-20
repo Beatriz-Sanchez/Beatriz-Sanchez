@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beatriz-Sanchez
 - 👀 I’m interested in food, movies, animals, biology and coding
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 Languages: R, Javascript and Python
 - 📫 How to reach me: bia.lsanchez@gmail.com
 
 <!---
