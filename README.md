@@ -1,20 +1,16 @@
-<h3>Hi, I am Beatriz👋</h3>
+### Hi, I am Beatriz👋
 
-<h5>I teach programming at Byju's Future School</h5>
+##### I teach programming at Byju's Future School
 
-<h5>Currently teaching the basics on:</h5>
-<div class="skills">
-    <img src=https://github.com/Beatriz-Sanchez/Beatriz-Sanchez/blob/main/icons/js.svg alt="JavaScript"></img> 
-    <img src=https://github.com/Beatriz-Sanchez/Beatriz-Sanchez/blob/main/icons/html5.svg alt="HTML5"></img>
-    <img src=https://github.com/Beatriz-Sanchez/Beatriz-Sanchez/blob/main/icons/css3.svg alt="CSS3"></img>
-    <img src=https://github.com/Beatriz-Sanchez/Beatriz-Sanchez/blob/main/icons/json_light.svg alt="JSON"></img>
-    <img src=https://github.com/Beatriz-Sanchez/Beatriz-Sanchez/blob/main/icons/vscode.svg alt="VS Code"></img>
-    <img src=https://github.com/Beatriz-Sanchez/Beatriz-Sanchez/blob/main/icons/git.svg alt="Git"></img>
-    <img src=https://github.com/Beatriz-Sanchez/Beatriz-Sanchez/blob/main/icons/github.svg alt="GitHub"></img>
-    <img src=https://github.com/Beatriz-Sanchez/Beatriz-Sanchez/blob/main/icons/firebase.svg alt="Firebase"></img>
-</div>
-
-
+##### Currently teaching the basics on:  
+![JS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/js.svg "JavaScript")
+![HTML icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/html5.svg "HTML")
+![CSS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/css3.svg "CSS")
+![JSON icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/json_light.svg "JSON")
+![VS Code icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/vscode.svg "Visual Studio Code")
+![Git icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/git.svg "Git")
+![GitHub icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/github.svg "GitHub")
+![Firebase icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/firebase.svg "Firebase")
   
 <!---
 Beatriz-Sanchez/Beatriz-Sanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
