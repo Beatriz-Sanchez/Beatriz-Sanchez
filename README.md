@@ -15,6 +15,7 @@
 <br>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatriz-Sanchez&show_icons=true&theme=gruvbox&hide_title=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Beatriz-Sanchez&theme=gruvbox)](https://github.com/Beatriz-Sanchez)
 
 ## Contact me:
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-lisboa-sanchez/)
