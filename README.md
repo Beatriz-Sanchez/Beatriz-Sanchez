@@ -11,6 +11,7 @@
 ![Git icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/git.svg "Git")
 ![GitHub icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/github.svg "GitHub")
 ![Firebase icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/firebase.svg "Firebase")
+![React-native icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/react-native.svg "React-native")
 
 <br>
 
