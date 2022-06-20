@@ -13,6 +13,9 @@
 ![Firebase icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/firebase.svg "Firebase")
 ![React-native icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/react-native.svg "React-native")
 
+##### Also learning:
+![ReactJS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/react-native.svg "React JS")
+
 <br>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatriz-Sanchez&show_icons=true&theme=gruvbox&hide_title=true)
