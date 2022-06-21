@@ -11,12 +11,13 @@
 ![Git icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/git.svg "Git")
 ![GitHub icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/github.svg "GitHub")
 ![Firebase icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/firebase.svg "Firebase")
-![React-native icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/react-native.svg "React-native")
+![ReactJS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/react-native.svg "React-native")
 
 ##### Also learning:
 ![ReactJS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/react-native.svg "React DOM")
 ![Sass icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/sass-svgrepo-com.svg "Sass")
 ![Bootstrap icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/bootstrap-svgrepo-com.svg "Bootstrap")
+![Tailwind icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/tailwind.svg "Tailwind")
 
 
 <br>
