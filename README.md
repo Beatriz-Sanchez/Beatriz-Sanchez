@@ -14,7 +14,7 @@
 ![React-native icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/react-native.svg "React-native")
 
 ##### Also learning:
-![ReactJS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/react-native.svg "React JS")
+![ReactJS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/react-native.svg "React DOM")
 ![Sass icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/sass-svgrepo-com.svg "Sass")
 ![Bootstrap icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/bootstrap-svgrepo-com.svg "Bootstrap")
 
