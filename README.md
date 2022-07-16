@@ -18,6 +18,7 @@
 ![Sass icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/sass-svgrepo-com.svg "Sass")
 ![Bootstrap icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/bootstrap-svgrepo-com.svg "Bootstrap")
 ![Tailwind icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/tailwind.svg "Tailwind")
+![Vue icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/vue.svg "Vue")
 
 
 <br>
