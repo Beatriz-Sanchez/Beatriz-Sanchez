@@ -1,24 +1,20 @@
 # Hi, I am Beatriz👋
 
-##### I teach programming at Byju's Future School
+##### I am a Junior Web Developer
 
-##### Currently teaching the basics on:  
+##### Currently working with:  
 ![JS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/js.svg "JavaScript")
 ![HTML icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/html5.svg "HTML")
 ![CSS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/css3.svg "CSS")
-![JSON icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/json_light.svg "JSON")
-![VS Code icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/vscode.svg "Visual Studio Code")
-![Git icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/git.svg "Git")
-![GitHub icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/github.svg "GitHub")
-![Firebase icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/firebase.svg "Firebase")
-![ReactJS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/react-native.svg "React-native")
+![Sass icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/sass-svgrepo-com.svg "Sass")
+![Vue icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/vue.svg "Vue")
+![Vuetify icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/vuetify.svg "Vue")
 
 ##### Also learning:
-![ReactJS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/react-native.svg "React DOM")
-![Sass icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/sass-svgrepo-com.svg "Sass")
+![ReactJS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/react-native.svg "React DOM and React Native")
 ![Bootstrap icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/bootstrap-svgrepo-com.svg "Bootstrap")
 ![Tailwind icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/tailwind.svg "Tailwind")
-![Vue icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/vue.svg "Vue")
+![Firebase icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/firebase.svg "Firebase")
 
 
 <br>
