@@ -8,7 +8,7 @@
 ![CSS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/css3.svg "CSS")
 ![Sass icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/sass-svgrepo-com.svg "Sass")
 ![Vue icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/vue.svg "Vue")
-![Vuetify icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/vuetify.svg "Vue")
+![Vuetify icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/vuetify.svg "Vuetify")
 
 ##### Also learning:
 ![ReactJS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/main/icons/react-native.svg "React DOM and React Native")
