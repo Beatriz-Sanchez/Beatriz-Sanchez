@@ -1,6 +1,6 @@
 # Hi, I am Beatriz👋
 
-##### I am a Junior Front-end Developer
+##### I am a Front-end Developer
 
 ##### Currently working with:  
 ![JS icon](https://raw.githubusercontent.com/Beatriz-Sanchez/Beatriz-Sanchez/99d2d5a8142254731bc058e0bb7167f2f96a4570/icons/js.svg "JavaScript")
